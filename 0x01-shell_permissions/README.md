@@ -1,1 +1,1 @@
-script that adds permission to the owner the group owner and other users to the file hello
+script that creates directory called dir with permission 751 in the working directory
