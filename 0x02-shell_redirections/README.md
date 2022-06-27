@@ -1,1 +1,1 @@
-script that display the third line of iacta
+Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
