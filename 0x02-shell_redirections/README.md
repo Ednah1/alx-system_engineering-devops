@@ -1,1 +1,1 @@
-script that prints hello world followed by new line to the standard output
+script that displays a confused smiley
